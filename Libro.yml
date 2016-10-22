@@ -1,8 +1,0 @@
-####################################################################################################################
-# Archivo: Libro.yml - Contenido del libro de WarCraft item                                                        #
-# El contenido es totalmente modificable en su totalidad.                                                          #
-# En algunos casos puedes usar códigos de colores (&).                                                             #
-####################################################################################################################
-
-Contenido_Libro:
-  - '&bRecuerda visitar la página oficial del servidor: &c&nwww.warcraft.com'
