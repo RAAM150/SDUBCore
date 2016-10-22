@@ -1,9 +1,0 @@
-name: SDUBCore
-main: Core.Principal.Main
-version: 1.0.1_BETA
-website: https://www.survivaldub.com/
-authors: [RAAM150]
-commands:
-  anuncio:
-    description: Da un anuncio en el servidor actual.
-    aliases: [broadcast]
