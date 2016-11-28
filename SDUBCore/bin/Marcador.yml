@@ -1,0 +1,14 @@
+####################################################################################################################
+# Archivo: Marcador.yml - Mensajes del plugin editables.                                                           #
+# El contenido es totalmente modificable.                                                                          #
+####################################################################################################################
+
+Caracteristicas:
+   Caracteres_Maximos: '16'
+
+Marcador:
+  Titulo: '&c&lSD'
+  Scores:
+  - '&7&m-----------'
+  - '&c&lVersion:'
+  - ' &fBETA 1.6'

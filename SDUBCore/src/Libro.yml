@@ -1,0 +1,7 @@
+####################################################################################################################
+# Archivo: Libro.yml - Contenido del libro de SurvivalDub item                                                     #
+# El contenido es totalmente modificable.                                                                          #
+####################################################################################################################
+
+Contenido_Libro:
+  - '&bRecuerda visitar la página oficial del servidor: &c&nsurvivaldub.com'

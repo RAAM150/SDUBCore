@@ -1,0 +1,21 @@
+####################################################################################################################
+# Archivo: Mensajes.yml - Mensajes del plugin editables.                                                           #
+# El contenido es totalmente modificable.                                                                          #
+####################################################################################################################
+
+# Prefijo del jugador y consola
+PREFIJO_GENERAL: '&e* &a&lSDUBCore &e* &f- &7'
+PREFIJO_CONSOLA: '&e[ &a&lSDUBCore &e] &f- &7'
+
+# Mensaje que se muestra si el jugador no está conectado
+JUGADOR_NO_ESTA_CONECTADO: '&c¡El jugador no está en línea!'
+
+# Mensaje que no se puede utilizar el comando en consola
+NO_CONSOLA: '&cEste comando es solo para jugadores.'
+# Mensaje cuando el jugador no tiene permiso
+NO_PERMISO: '&c¡Tú no tienes permisos!'
+# Mensaje cuando el jugador no tiene permiso
+COMANDO_NO_ENCONTRADO: '&cEste comando no ha sido encontrado.'
+
+# Mensaje de expulsión cuando el servidor cierra
+SERVIDOR_CIERRA: '&4* &cServidor Cerrado &4*\n\n&7El servidor ha sido cerrado.'
